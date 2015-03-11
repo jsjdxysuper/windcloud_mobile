@@ -37,7 +37,7 @@
     if(nil != self.webView1){
         self.webView1.delegate = self;
         // Do any additional setup after loading the view.
-        self.url1 = [NSURL URLWithString:@"http://www.sgepm.com/pimsPhone/plant.htm"];
+        self.url1 = [NSURL URLWithString:@"http://www.sgepm.com/pimsPhone/windPlant.htm"];
         NSURLRequest *request = [NSURLRequest requestWithURL:self.url1];
         [self.webView1 loadRequest:request];
         self.webView1.scalesPageToFit =YES;
@@ -59,7 +59,7 @@
     if(nil != self.webView3){
         self.webView3.delegate = self;
         // Do any additional setup after loading the view.
-        self.url3 = [NSURL URLWithString:@"http://www.sgepm.com/pimsPhone/generator.htm"];
+        self.url3 = [NSURL URLWithString:@"http://www.sgepm.com/pimsPhone/windCompare.htm"];
         NSURLRequest *request = [NSURLRequest requestWithURL:self.url3];
         [self.webView3 loadRequest:request];
         self.webView3.scalesPageToFit =YES;
@@ -74,7 +74,7 @@
 //                                 action:@selector(backView:)];
     UIImage* backImage1 = [UIImage imageNamed:@"set.png"];
     
-    CGRect backframe1 = CGRectMake(0,0,50,60);
+    CGRect backframe1 = CGRectMake(0,0,25,25);
     
     UIButton* backButton1= [[UIButton alloc] initWithFrame:backframe1];
     
@@ -95,7 +95,7 @@
 
     UIImage* backImage = [UIImage imageNamed:@"refresh.png"];
     
-    CGRect backframe = CGRectMake(0,0,50,60);
+    CGRect backframe = CGRectMake(0,0,25,25);
     
     UIButton* backButton= [[UIButton alloc] initWithFrame:backframe];
     
