@@ -8,11 +8,11 @@
 
 #import <XCTest/XCTest.h>
 
-@interface kedongTests : XCTestCase
+@interface windcloudTests : XCTestCase
 
 @end
 
-@implementation kedongTests
+@implementation windcloudTests
 
 - (void)setUp
 {

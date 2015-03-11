@@ -133,7 +133,7 @@
     [self.navigationItem setLeftBarButtonItem:leftBtn];
     
     [self.navigationItem setRightBarButtonItems:[NSArray arrayWithObjects: leftBarButtonItem,rightBarButtonItem,nil]];
-    self.navigationItem.title = @"电厂云图";
+    self.navigationItem.title = @"风场云图";
     
     
 //    self.hidesBottomBarWhenPushed = NO;

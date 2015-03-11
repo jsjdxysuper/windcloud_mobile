@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "18A879EC1977C12500BCD647"
-               BuildableName = "kedong.app"
-               BlueprintName = "kedong"
-               ReferencedContainer = "container:kedong.xcodeproj">
+               BuildableName = "windcloud.app"
+               BlueprintName = "windcloud"
+               ReferencedContainer = "container:windcloud.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "18A87A101977C12500BCD647"
-               BuildableName = "kedongTests.xctest"
-               BlueprintName = "kedongTests"
-               ReferencedContainer = "container:kedong.xcodeproj">
+               BuildableName = "windcloudTests.xctest"
+               BlueprintName = "windcloudTests"
+               ReferencedContainer = "container:windcloud.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "18A879EC1977C12500BCD647"
-            BuildableName = "kedong.app"
-            BlueprintName = "kedong"
-            ReferencedContainer = "container:kedong.xcodeproj">
+            BuildableName = "windcloud.app"
+            BlueprintName = "windcloud"
+            ReferencedContainer = "container:windcloud.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "18A879EC1977C12500BCD647"
-            BuildableName = "kedong.app"
-            BlueprintName = "kedong"
-            ReferencedContainer = "container:kedong.xcodeproj">
+            BuildableName = "windcloud.app"
+            BlueprintName = "windcloud"
+            ReferencedContainer = "container:windcloud.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "18A879EC1977C12500BCD647"
-            BuildableName = "kedong.app"
-            BlueprintName = "kedong"
-            ReferencedContainer = "container:kedong.xcodeproj">
+            BuildableName = "windcloud.app"
+            BlueprintName = "windcloud"
+            ReferencedContainer = "container:windcloud.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

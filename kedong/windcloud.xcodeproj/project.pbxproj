@@ -64,7 +64,7 @@
 		18A87A141977C12500BCD647 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18A879F01977C12500BCD647 /* Foundation.framework */; };
 		18A87A151977C12500BCD647 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 18A879F41977C12500BCD647 /* UIKit.framework */; };
 		18A87A1D1977C12500BCD647 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 18A87A1B1977C12500BCD647 /* InfoPlist.strings */; };
-		18A87A1F1977C12500BCD647 /* kedongTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A87A1E1977C12500BCD647 /* kedongTests.m */; };
+		18A87A1F1977C12500BCD647 /* windcloudTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A87A1E1977C12500BCD647 /* windcloudTests.m */; };
 		18F35D5419A4900E0003D3AA /* analysis.png in Resources */ = {isa = PBXBuildFile; fileRef = 18F35D5119A4900E0003D3AA /* analysis.png */; };
 		18F35D5619A4900E0003D3AA /* overview.png in Resources */ = {isa = PBXBuildFile; fileRef = 18F35D5319A4900E0003D3AA /* overview.png */; };
 		18F35D5819A490760003D3AA /* detail1.png in Resources */ = {isa = PBXBuildFile; fileRef = 18F35D5719A490760003D3AA /* detail1.png */; };
@@ -139,11 +139,11 @@
 		1894E4B41991D1C20051A268 /* SSCheckBoxView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SSCheckBoxView.m; sourceTree = "<group>"; };
 		1894E4B61991D2180051A268 /* UIHelpers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UIHelpers.h; sourceTree = "<group>"; };
 		1894E4B71991D2180051A268 /* UIHelpers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UIHelpers.m; sourceTree = "<group>"; };
-		18A879ED1977C12500BCD647 /* kedong.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kedong.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		18A879ED1977C12500BCD647 /* windcloud.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = windcloud.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A879F01977C12500BCD647 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		18A879F21977C12500BCD647 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		18A879F41977C12500BCD647 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		18A879F81977C12500BCD647 /* kedong-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "kedong-Info.plist"; sourceTree = "<group>"; };
+		18A879F81977C12500BCD647 /* windcloud-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "windcloud-Info.plist"; sourceTree = "<group>"; };
 		18A879FA1977C12500BCD647 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		18A879FC1977C12500BCD647 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18A879FE1977C12500BCD647 /* kedong-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "kedong-Prefix.pch"; sourceTree = "<group>"; };
@@ -151,11 +151,11 @@
 		18A87A001977C12500BCD647 /* KD3AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KD3AppDelegate.m; sourceTree = "<group>"; };
 		18A87A031977C12500BCD647 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		18A87A0B1977C12500BCD647 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		18A87A111977C12500BCD647 /* kedongTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = kedongTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		18A87A111977C12500BCD647 /* windcloudTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = windcloudTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A87A121977C12500BCD647 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		18A87A1A1977C12500BCD647 /* kedongTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "kedongTests-Info.plist"; sourceTree = "<group>"; };
+		18A87A1A1977C12500BCD647 /* windcloudTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "windcloudTests-Info.plist"; sourceTree = "<group>"; };
 		18A87A1C1977C12500BCD647 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		18A87A1E1977C12500BCD647 /* kedongTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = kedongTests.m; sourceTree = "<group>"; };
+		18A87A1E1977C12500BCD647 /* windcloudTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = windcloudTests.m; sourceTree = "<group>"; };
 		18F35D5119A4900E0003D3AA /* analysis.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = analysis.png; sourceTree = "<group>"; };
 		18F35D5319A4900E0003D3AA /* overview.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = overview.png; sourceTree = "<group>"; };
 		18F35D5719A490760003D3AA /* detail1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = detail1.png; sourceTree = "<group>"; };
@@ -267,8 +267,8 @@
 		18A879E41977C12500BCD647 = {
 			isa = PBXGroup;
 			children = (
-				18A879F61977C12500BCD647 /* kedong */,
-				18A87A181977C12500BCD647 /* kedongTests */,
+				18A879F61977C12500BCD647 /* windcloud */,
+				18A87A181977C12500BCD647 /* windcloudTests */,
 				18A879EF1977C12500BCD647 /* Frameworks */,
 				18A879EE1977C12500BCD647 /* Products */,
 			);
@@ -277,8 +277,8 @@
 		18A879EE1977C12500BCD647 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				18A879ED1977C12500BCD647 /* kedong.app */,
-				18A87A111977C12500BCD647 /* kedongTests.xctest */,
+				18A879ED1977C12500BCD647 /* windcloud.app */,
+				18A87A111977C12500BCD647 /* windcloudTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -295,7 +295,7 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		18A879F61977C12500BCD647 /* kedong */ = {
+		18A879F61977C12500BCD647 /* windcloud */ = {
 			isa = PBXGroup;
 			children = (
 				1892781919985A6100163325 /* graph */,
@@ -328,14 +328,14 @@
 				18A87A0B1977C12500BCD647 /* Images.xcassets */,
 				18A879F71977C12500BCD647 /* Supporting Files */,
 			);
-			path = kedong;
+			path = windcloud;
 			sourceTree = "<group>";
 		};
 		18A879F71977C12500BCD647 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
 				1891C154197D56AE00118C78 /* index.js */,
-				18A879F81977C12500BCD647 /* kedong-Info.plist */,
+				18A879F81977C12500BCD647 /* windcloud-Info.plist */,
 				18A879F91977C12500BCD647 /* InfoPlist.strings */,
 				18A879FC1977C12500BCD647 /* main.m */,
 				18A879FE1977C12500BCD647 /* kedong-Prefix.pch */,
@@ -343,19 +343,19 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		18A87A181977C12500BCD647 /* kedongTests */ = {
+		18A87A181977C12500BCD647 /* windcloudTests */ = {
 			isa = PBXGroup;
 			children = (
-				18A87A1E1977C12500BCD647 /* kedongTests.m */,
+				18A87A1E1977C12500BCD647 /* windcloudTests.m */,
 				18A87A191977C12500BCD647 /* Supporting Files */,
 			);
-			path = kedongTests;
+			path = windcloudTests;
 			sourceTree = "<group>";
 		};
 		18A87A191977C12500BCD647 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				18A87A1A1977C12500BCD647 /* kedongTests-Info.plist */,
+				18A87A1A1977C12500BCD647 /* windcloudTests-Info.plist */,
 				18A87A1B1977C12500BCD647 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -364,9 +364,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		18A879EC1977C12500BCD647 /* kedong */ = {
+		18A879EC1977C12500BCD647 /* windcloud */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 18A87A221977C12500BCD647 /* Build configuration list for PBXNativeTarget "kedong" */;
+			buildConfigurationList = 18A87A221977C12500BCD647 /* Build configuration list for PBXNativeTarget "windcloud" */;
 			buildPhases = (
 				18A879E91977C12500BCD647 /* Sources */,
 				18A879EA1977C12500BCD647 /* Frameworks */,
@@ -376,14 +376,14 @@
 			);
 			dependencies = (
 			);
-			name = kedong;
+			name = windcloud;
 			productName = kedong;
-			productReference = 18A879ED1977C12500BCD647 /* kedong.app */;
+			productReference = 18A879ED1977C12500BCD647 /* windcloud.app */;
 			productType = "com.apple.product-type.application";
 		};
-		18A87A101977C12500BCD647 /* kedongTests */ = {
+		18A87A101977C12500BCD647 /* windcloudTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 18A87A251977C12500BCD647 /* Build configuration list for PBXNativeTarget "kedongTests" */;
+			buildConfigurationList = 18A87A251977C12500BCD647 /* Build configuration list for PBXNativeTarget "windcloudTests" */;
 			buildPhases = (
 				18A87A0D1977C12500BCD647 /* Sources */,
 				18A87A0E1977C12500BCD647 /* Frameworks */,
@@ -394,9 +394,9 @@
 			dependencies = (
 				18A87A171977C12500BCD647 /* PBXTargetDependency */,
 			);
-			name = kedongTests;
+			name = windcloudTests;
 			productName = kedongTests;
-			productReference = 18A87A111977C12500BCD647 /* kedongTests.xctest */;
+			productReference = 18A87A111977C12500BCD647 /* windcloudTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -417,7 +417,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 18A879E81977C12500BCD647 /* Build configuration list for PBXProject "kedong" */;
+			buildConfigurationList = 18A879E81977C12500BCD647 /* Build configuration list for PBXProject "windcloud" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -430,8 +430,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				18A879EC1977C12500BCD647 /* kedong */,
-				18A87A101977C12500BCD647 /* kedongTests */,
+				18A879EC1977C12500BCD647 /* windcloud */,
+				18A87A101977C12500BCD647 /* windcloudTests */,
 			);
 		};
 /* End PBXProject section */
@@ -519,7 +519,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				18A87A1F1977C12500BCD647 /* kedongTests.m in Sources */,
+				18A87A1F1977C12500BCD647 /* windcloudTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -528,7 +528,7 @@
 /* Begin PBXTargetDependency section */
 		18A87A171977C12500BCD647 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 18A879EC1977C12500BCD647 /* kedong */;
+			target = 18A879EC1977C12500BCD647 /* windcloud */;
 			targetProxy = 18A87A161977C12500BCD647 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -639,10 +639,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "kedong/kedong-Prefix.pch";
-				INFOPLIST_FILE = "kedong/kedong-Info.plist";
+				GCC_PREFIX_HEADER = "windcloud/windcloud-Prefix.pch";
+				INFOPLIST_FILE = "windcloud/windcloud-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = windcloud;
 				PROVISIONING_PROFILE = "";
 				"USER_HEADER_SEARCH_PATHS[arch=*]" = /Users/apple/Desktop/workspace/SSCheckBoxView/SSCheckBoxView;
 				WRAPPER_EXTENSION = app;
@@ -657,10 +657,10 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "kedong/kedong-Prefix.pch";
-				INFOPLIST_FILE = "kedong/kedong-Info.plist";
+				GCC_PREFIX_HEADER = "windcloud/windcloud-Prefix.pch";
+				INFOPLIST_FILE = "windcloud/windcloud-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = windcloud;
 				PROVISIONING_PROFILE = "";
 				"USER_HEADER_SEARCH_PATHS[arch=*]" = /Users/apple/Desktop/workspace/SSCheckBoxView/SSCheckBoxView;
 				WRAPPER_EXTENSION = app;
@@ -682,8 +682,8 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "kedongTests/kedongTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "kedongTests/windcloudTests-Info.plist";
+				PRODUCT_NAME = windcloudTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -700,8 +700,8 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "kedong/kedong-Prefix.pch";
-				INFOPLIST_FILE = "kedongTests/kedongTests-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "kedongTests/windcloudTests-Info.plist";
+				PRODUCT_NAME = windcloudTests;
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
 			};
@@ -710,7 +710,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		18A879E81977C12500BCD647 /* Build configuration list for PBXProject "kedong" */ = {
+		18A879E81977C12500BCD647 /* Build configuration list for PBXProject "windcloud" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18A87A201977C12500BCD647 /* Debug */,
@@ -719,7 +719,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		18A87A221977C12500BCD647 /* Build configuration list for PBXNativeTarget "kedong" */ = {
+		18A87A221977C12500BCD647 /* Build configuration list for PBXNativeTarget "windcloud" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18A87A231977C12500BCD647 /* Debug */,
@@ -728,7 +728,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		18A87A251977C12500BCD647 /* Build configuration list for PBXNativeTarget "kedongTests" */ = {
+		18A87A251977C12500BCD647 /* Build configuration list for PBXNativeTarget "windcloudTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				18A87A261977C12500BCD647 /* Debug */,

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:kedong.xcodeproj">
+      location = "self:windcloud.xcodeproj">
    </FileRef>
 </Workspace>
